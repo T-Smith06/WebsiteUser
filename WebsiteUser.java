@@ -4,7 +4,8 @@ Name:			Terrence Smith
 Assgnmt Name:	Website User   
 Assignment#:	Module 2B - Website User
 Resources: 		Introduction to Java Programming and Data Structures: Comp Version 11th e, 
- 				Ch. 9. Used ideas from Lab 2A. Also google on how to select chars w/in a string*/
+ 				Ch. 9. Used ideas from Lab 2A. Also google on how to select chars w/in a string
+				nice work keep practising bro */
 
 import java.util.Random;
 
